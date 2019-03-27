@@ -1,12 +1,11 @@
 <span id="a">georgiy@andrianov</span>:<span id="b">~</span><span id="c">$</span> cat georgiyandrianov_cv.txt<br/><br/>
-Hi, I'm Georgiy Andrianov.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a programmer and project manager with 10 years experience and Master degree in computer science.</p><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglagla-->
-<p>Right now I’m a Tech Lead / Project Manager in <a href="http://www.htsts.ru">JSC HTSTS</a>. Love to work with Java, know C# and Python (incl. Django). </p><!- laglaglaglaglaglaglaglaglaglaglaglaglagla -->
+Hi, I'm Georgiy Andrianov.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a programmer and project manager with 10 years experience and Master degree in math and computer science.</p><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglagla-->
+<p>Right now I’m a Tech Lead / Project Manager in <a href="http://www.htsts.ru">JSC HTSTS</a>. Love to work with Java (Java 8+, Spring, Hibernate, REST, Jersey, JAX-RS, JUnit, Maven, Tomcat), C#, Python (incl. Django).</p><!- laglaglaglaglaglaglaglaglaglaglaglaglagla -->
 <p>I love to code, play video games, read, travel.</p><!— laglaglaglaglaglaglaglaglaglaglaglag -->
 If you would like to get in touch with me, whether it be for the job offer, a business matter, or to just say hi<!-- laglaglagl-->, feel free to send me an a message or a tweet!<!-- laglaglaglag -->
-</p>
-<p>
-<a href="mailto:andrianovgd@gmail.com">andrianovgd@gmail.com</a>
+
+<a href="mailto:andrianovgd@gmail.com">E-Mail</a>
 <a href="https://twitter.com/mckilem">Twitter</a>
 <a href="https://www.linkedin.com/in/georgiy-andrianov-57aba9121">LinkedIn</a></p>
 <!— laglaglaglaglaglag -->
-<p>And if you haven't already, be sure to check out my cv in <a href="cv_eng.pdf">english</a> and <a href="cv_rus.pdf">russian</a>.</p>
+<p>And if you haven't already, be sure to check out my CV in <a href="cv_eng.pdf">english</a> and <a href="cv_rus.pdf">russian</a>.</p>
